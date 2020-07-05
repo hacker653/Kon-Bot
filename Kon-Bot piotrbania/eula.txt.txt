@@ -1,0 +1,136 @@
+visit:www.piotrbania.com
+
+END-USER LICENSE AGREEMENT FOR KON-BOOT IMPORTANT PLEASE READ THE TERMS 
+AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING 
+WITH THIS PROGRAM INSTALL: LEAD 82 End-User License 
+Agreement ("EULA") is a legal agreement between you (either an 
+individual or a single entity) and LEAD 82 for the 
+LEAD 82 software product(s) identified above which may 
+include associated software components, media, printed materials, and 
+"online" or electronic documentation ("SOFTWARE PRODUCT"). By 
+installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree 
+to be bound by the terms of this EULA. This license agreement represents 
+the entire agreement concerning the program between you and 
+LEAD 82, (referred to as "licenser"), and it supersedes any 
+prior proposal, representation, or understanding between the parties. If 
+you do not agree to the terms of this EULA, do not install or use the 
+SOFTWARE PRODUCT. 
+
+The SOFTWARE PRODUCT is protected by copyright laws and international 
+copyright treaties, as well as other intellectual property laws and 
+treaties. The SOFTWARE PRODUCT is licensed, not sold. 
+
+1. Eligible Licensees. This SOFTWARE PRODUCT is available for license 
+solely to persons who are bound by the terms of the EULA (referred to 
+herein as a “Licensee” and sometimes as “You”). 
+
+DOWNLOADING OR USE OF THE SOFTWARE PRODUCT BY ANYONE OTHER THAN A 
+LICENSEE OR IN VIOLATION OF THE TERMS OF THIS EULA IS AN INFRINGEMENT OF 
+COPYRIGHT AND MAY BE A CRIMINAL OFFENSE. 
+
+2. License Grant. LEAD 82 grants to the Licensee a 
+personal, non-transferable and non-exclusive right to use the copy of 
+the SOFTWARE PRODUCT provided with this EULA. You agree You will not 
+copy the SOFTWARE PRODUCT except as necessary to use it on a single 
+computer. You agree that You may not copy the written materials 
+accompanying the SOFTWARE PRODUCT. Modifying, translating, renting, 
+copying, transferring or assigning all or part of the SOFTWARE PRODUCT, 
+or any rights granted hereunder, to any other persons, or removing any 
+proprietary notices, labels or marks from the SOFTWARE PRODUCT is 
+strictly prohibited. Furthermore, You hereby agree not to create 
+derivative works based on the SOFTWARE PRODUCT. You may not transfer or 
+otherwise distribute this SOFTWARE PRODUCT either voluntarily or by 
+operation of law. 
+
+3. Copyright. The SOFTWARE PRODUCT is licensed, not sold. You 
+acknowledge that no title to the intellectual property in the SOFTWARE 
+PRODUCT has been or is transferred to You. You further acknowledge that 
+title and full ownership rights to the SOFTWARE PRODUCT will remain the 
+exclusive property of LEAD 82, and You will not acquire any 
+rights to the SOFTWARE PRODUCT, except as expressly set forth above. All 
+copies of the SOFTWARE PRODUCT will be deemed to contain the same 
+proprietary notices as contained in or on the SOFTWARE PRODUCT. All 
+title and copyrights in and to the SOFTWARE PRODUCT (including but not 
+limited to any images, photographs, animations, video, audio, music, 
+text and "applets," incorporated into the SOFTWARE PRODUCT), the 
+accompanying printed materials, and any copies of the SOFTWARE PRODUCT , 
+are owned by LEAD 82. The SOFTWARE PRODUCT is protected by 
+copyright laws and international treaty provisions and LEAD 
+82 reserves all rights under all such laws and treaties. 
+
+DOWNLOADING OR USE OF THE SOFTWARE PRODUCT BY ANYONE OTHER THAN A 
+LICENSEE OR IN VIOLATION OF THE TERMS OF THIS EULA IS AN INFRINGEMENT OF 
+COPYRIGHT AND MAY BE A CRIMINAL OFFENSE. 
+
+4. No Reverse Engineering. You agree that You will not attempt, and if 
+You are a corporation or other business entity, You will prevent Your 
+employees and contractors from attempting to reverse compile, modify, 
+translate or disassemble the SOFTWARE PRODUCT in whole or in part. Any 
+failure to comply with the above or any other terms and conditions 
+contained herein will result in the automatic termination of this 
+license and the reversion of the rights granted hereunder to 
+LEAD 82. 
+
+5. Disclaimer of Warranty. The SOFTWARE PRODUCT is provided "AS IS" 
+without warranty of any kind. LEAD 82 and its suppliers 
+disclaim and make no express or implied warranties and specifically 
+disclaim the warranties of merchantability, fitness for a particular 
+purpose and non-infringement of third-party rights. The entire risk as 
+to the quality and performance of the SOFTWARE PRODUCT is with You. 
+Neither LEAD 82 nor its suppliers warrant that the 
+functions contained in the SOFTWARE PRODUCT will meet Your requirements 
+or that the operation of the SOFTWARE PRODUCT will be uninterrupted or 
+error-free. LEAD 82 IS NOT OBLIGATED TO PROVIDE ANY UPDATES 
+TO THE SOFTWARE PRODUCT. 
+
+6. Limitation of Liability. LEAD 82's entire liability and 
+Your exclusive remedy under this EULA shall not exceed the price paid 
+for the SOFTWARE PRODUCT, if any. In no event shall LEAD 82 
+or its suppliers be liable to You for any consequential, special, 
+incidental or indirect damages of any kind arising out of the use or 
+inability to use the SOFTWARE PRODUCT, even if LEAD 82 or 
+its supplier has been advised of the possibility of such damages, or any 
+claim by a third party. 
+
+7. Rental. You may not loan, rent, or lease the SOFTWARE PRODUCT. 
+
+8. Upgrades. If the SOFTWARE PRODUCT is an upgrade from an earlier 
+release or previously released version, You now may use that upgraded 
+product only in accordance with this EULA. If the SOFTWARE PRODUCT is an 
+upgrade of a SOFTWARE PRODUCT program which You licensed as a single 
+product, the SOFTWARE PRODUCT may be used only as part of that single 
+product package and may not be separated for use on more than one 
+computer. 
+
+9. OEM Product Support. Product support for the SOFTWARE PRODUCT may be 
+provided by LEAD 82 in its sole discretion. If such support 
+is provided a fee may be charged. In any event, LEAD 82 and 
+its suppliers disclaim and make no express or implied warranties and 
+specifically disclaim the warranties of merchantability, fitness for a 
+particular purpose and non-infringement of third-party rights of such 
+support. The entire risk as to the quality and performance of the 
+support is with You. Neither LEAD 82 nor its suppliers 
+warrant that the functions contained in the support will meet Your 
+requirements or that the operation of the SOFTWARE PRODUCT based on the 
+support will be uninterrupted or error-free. For product support, please 
+e-mail LEAD 82. Should You have any questions concerning 
+this, please refer to the address provided in the documentation. 
+
+10. No Liability for Consequential Damages. In no event shall 
+LEAD 82 or its suppliers be liable for any damages 
+whatsoever (including, without limitation, incidental, direct, indirect 
+special and consequential damages, damages for loss of business profits, 
+business interruption, loss of business information, or other pecuniary 
+loss) arising out of the use or inability to use this SOFTWARE PRODUCT, 
+even if LEAD 82 has been advised of the possibility of such 
+damages. Because some states/countries do not allow the exclusion or 
+limitation of liability for consequential or incidental damages, the 
+above limitation may not apply to You. 
+
+11. Indemnification By You. If You distribute the SOFTWARE PRODUCT in 
+violation of this Agreement, You agree to indemnify, hold harmless and 
+defend LEAD 82 and its suppliers from and against any 
+claims, proceedings or lawsuits, including attorney's fees that arise in 
+connection with or as a result from the use or distribution of the 
+SOFTWARE PRODUCT. 
+
